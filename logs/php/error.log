@@ -1,0 +1,1 @@
+[05-Mar-2024 13:26:26 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Beka\Local Sites\portfolio\app\public\wp-includes\class-wp-customize-widgets.php on line 905
